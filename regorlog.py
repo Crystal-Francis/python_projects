@@ -6,6 +6,8 @@ Registered user data, including username, password, name, age, and recovery code
 For login, the script validates user credentials and offers options to edit account details, delete the account,
 or search for other users. It also includes a password recovery feature. Despite functionality, the code has some
 logical errors and inefficiencies.
+
+NOTE: PLEASE HAVE A FILE IN THE SAME DIRECTORY CALLED "data.txt" WHEN TESTING THE CODE
 '''
 import random
 try:
